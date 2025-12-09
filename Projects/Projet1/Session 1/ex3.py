@@ -1,8 +1,3 @@
-"""
-Docstring for boucles
-afficher les nombre de 0 a 6 (inclus)
-"""
-
 i = 0
 while i <= 6:
     print(i)
